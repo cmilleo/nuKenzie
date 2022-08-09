@@ -40,6 +40,9 @@ body{
     border-radius: 6px;
     width: 8px;
   }
+  button{
+    cursor: pointer;
+  }
 `;
 
 export default GlobalStyle;

@@ -20,6 +20,10 @@ export const Container = styled.div`
     background-color: var(--gray-2);
     padding: 0 10px;
   }
+  &:hover{
+    background-color: var(--gray-3);
+    color: var(--gray-1);
+  }
   .buttonFilter {
     background-color: var(--color-primary);
     color: var(--gray-1);
